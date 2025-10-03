@@ -12,3 +12,8 @@ Simple Specular Lighting
 
 <img width="183" height="176" alt="image" src="https://github.com/user-attachments/assets/6f365009-aa98-4625-9b21-d99795cb4510" />
 
+In order to clearly compare the three shaders in class, I put them together for comparison (as well as the normal map model in class). Since I am not very good at operating Unity lights, the main display is the Main Preview display in the above shader. Here is also attached what it looks like in the scene
+
+<img width="1480" height="958" alt="image" src="https://github.com/user-attachments/assets/b2b0df11-07ef-482b-8030-b2a26c385653" />
+
+
