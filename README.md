@@ -16,4 +16,10 @@ In order to clearly compare the three shaders in class, I put them together for 
 
 <img width="1480" height="958" alt="image" src="https://github.com/user-attachments/assets/b2b0df11-07ef-482b-8030-b2a26c385653" />
 
+<img width="1483" height="922" alt="image" src="https://github.com/user-attachments/assets/557e7af0-9aef-4c87-b6ac-b3c092c4dd2d" />
+
+<img width="1489" height="975" alt="image" src="https://github.com/user-attachments/assets/e3c6db55-0d35-466b-b86b-bdd49f03a8ee" />
+
+
+
 
